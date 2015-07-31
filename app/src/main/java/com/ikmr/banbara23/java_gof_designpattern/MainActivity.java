@@ -11,6 +11,7 @@ import com.ikmr.banbara23.java_gof_designpattern.No01_factory_method.MyClassA;
 import com.ikmr.banbara23.java_gof_designpattern.No01_factory_method.MyClassA1;
 import com.ikmr.banbara23.java_gof_designpattern.No01_factory_method.MyClassA2;
 import com.ikmr.banbara23.java_gof_designpattern.No01_factory_method.MyClassB;
+import com.ikmr.banbara23.java_gof_designpattern.No02_abstract_factory.MyFactory;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -21,6 +22,11 @@ public class MainActivity extends AppCompatActivity {
 
         // ファクトリメソッドパターン
         factoryMethodPattern();
+
+        abstractFactory();
+    }
+
+    private void abstractFactory() {
 
     }
 

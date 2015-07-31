@@ -16,3 +16,5 @@
 
 **「直接newするといろいろと不便だからコンストラクタのかわりに使う方法」**  
 ではないことを意識して、むやみにファクトリメソッドを作り過ぎないよう、よく検討しておくべき。
+
+![解説図](https://raw.githubusercontent.com/banbara23/Java-GoF-DesignPattern/master/doc/image/1_FactoryMethod.jpg)

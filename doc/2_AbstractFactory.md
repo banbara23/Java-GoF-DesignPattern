@@ -13,3 +13,5 @@
 
 このように「ファクトリメソッド専用のクラスを用意する」方法を「Abstract Factory パターン」という。<br>
 ファクトリメソッドで生成されるオブジェクトどうしは同一の条件下(プラットフォームなど)で実行可能であるというだけで、**互いには深い関連がない**ことが前提となっている。
+
+![解説図](https://raw.githubusercontent.com/banbara23/Java-GoF-DesignPattern/master/doc/image/2_AbstractFactory.jpg)

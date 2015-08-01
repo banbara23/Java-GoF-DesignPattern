@@ -11,3 +11,9 @@
 ####[説明](https://github.com/banbara23/Java-GoF-DesignPattern/blob/master/doc/2_AbstractFactory.md)
 
 ####[サンプルコード](https://github.com/banbara23/Java-GoF-DesignPattern/blob/master/app/src/main/java/com/ikmr/banbara23/java_gof_designpattern/No02_abstract_factory/MyMain.java)
+
+##3. Builder パターン
+
+説明
+
+サンプルコード

@@ -25,8 +25,8 @@
 [サンプルコード](https://github.com/banbara23/Java-GoF-DesignPattern/tree/master/app/src/main/java/com/ikmr/banbara23/java_gof_designpattern/No05_singleton)
 
 
-##8. Observer パターン
+##19. Observer パターン
 
-説明
+[説明](https://github.com/banbara23/Java-GoF-DesignPattern/blob/master/doc/19_Observer.md)
 
-サンプルコード
+[サンプルコード](https://github.com/banbara23/Java-GoF-DesignPattern/tree/master/app/src/main/java/com/ikmr/banbara23/java_gof_designpattern/No19_Observer)

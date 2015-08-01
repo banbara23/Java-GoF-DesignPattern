@@ -6,7 +6,15 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4fb7d0d-85cc-4593-8bc0-994deec557ed" name="Default" comment="" />
+    <list default="true" id="d4fb7d0d-85cc-4593-8bc0-994deec557ed" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/ikmr/banbara23/java_gof_designpattern/No19_Observer/MyClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/ikmr/banbara23/java_gof_designpattern/No19_Observer/MyMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/ikmr/banbara23/java_gof_designpattern/No19_Observer/MyObserver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/ikmr/banbara23/java_gof_designpattern/No19_Observer/MyObserverA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/ikmr/banbara23/java_gof_designpattern/No19_Observer/MyObserverB.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Java-Gof-DesignPattern.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,96 +46,61 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ikmr/banbara23/java_gof_designpattern/No03_builder/Main.java">
+      <file leaf-file-name="MyMain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ikmr/banbara23/java_gof_designpattern/No19_Observer/MyMain.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ikmr/banbara23/java_gof_designpattern/No05_singleton/Main.java">
+      <file leaf-file-name="MyClass.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ikmr/banbara23/java_gof_designpattern/No19_Observer/MyClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyClass.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ikmr/banbara23/java_gof_designpattern/No05_singleton/MyClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="24" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyClass2.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ikmr/banbara23/java_gof_designpattern/No05_singleton/MyClass2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.19927536">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyDirectorA.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ikmr/banbara23/java_gof_designpattern/No03_builder/MyDirectorA.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyDirectorB.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ikmr/banbara23/java_gof_designpattern/No03_builder/MyDirectorB.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyClass.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ikmr/banbara23/java_gof_designpattern/No03_builder/MyClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.10869565">
+              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
               <folding>
-                <element signature="e#172#173#0" expanded="true" />
-                <element signature="e#204#205#0" expanded="true" />
-                <element signature="e#235#236#0" expanded="true" />
-                <element signature="e#262#263#0" expanded="true" />
-                <element signature="e#302#303#0" expanded="true" />
-                <element signature="e#334#335#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyBuilder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ikmr/banbara23/java_gof_designpattern/No03_builder/MyBuilder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding>
-                <element signature="e#164#165#0" expanded="true" />
-                <element signature="e#195#196#0" expanded="true" />
-                <element signature="e#223#224#0" expanded="true" />
-                <element signature="e#254#255#0" expanded="true" />
-                <element signature="e#280#281#0" expanded="true" />
+                <element signature="e#273#274#0" expanded="true" />
                 <element signature="e#312#313#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyObserverA.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ikmr/banbara23/java_gof_designpattern/No19_Observer/MyObserverA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+              <folding>
+                <element signature="e#207#208#0" expanded="true" />
+                <element signature="e#275#276#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyObserverB.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ikmr/banbara23/java_gof_designpattern/No19_Observer/MyObserverB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding>
+                <element signature="e#207#208#0" expanded="true" />
+                <element signature="e#275#276#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyObserver.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ikmr/banbara23/java_gof_designpattern/No19_Observer/MyObserver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -137,6 +110,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -1455,6 +1429,11 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/ikmr/banbara23/java_gof_designpattern/No05_singleton/MyClass2.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/ikmr/banbara23/java_gof_designpattern/No05_singleton/MyClass.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/ikmr/banbara23/java_gof_designpattern/No05_singleton/Main.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ikmr/banbara23/java_gof_designpattern/No19_Observer/MyObserverA.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ikmr/banbara23/java_gof_designpattern/No19_Observer/MyObserverB.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ikmr/banbara23/java_gof_designpattern/No19_Observer/MyMain.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ikmr/banbara23/java_gof_designpattern/No19_Observer/MyObserver.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ikmr/banbara23/java_gof_designpattern/No19_Observer/MyClass.java" />
       </list>
     </option>
   </component>
@@ -1567,6 +1546,28 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="java_gof_designpattern" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java-Gof-DesignPattern" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java_gof_designpattern" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="No19_Observer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -1946,10 +1947,10 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
           <folding>
-            <element signature="e#207#208#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#289#290#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="false" />
+            <element signature="e#244#245#0" expanded="false" />
+            <element signature="e#289#290#0" expanded="false" />
+            <element signature="e#324#325#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1959,10 +1960,10 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding>
-            <element signature="e#173#174#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#255#256#0" expanded="true" />
-            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="false" />
+            <element signature="e#210#211#0" expanded="false" />
+            <element signature="e#255#256#0" expanded="false" />
+            <element signature="e#290#291#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1980,8 +1981,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="5" selection-end-column="29" />
           <folding>
-            <element signature="e#310#311#0" expanded="true" />
-            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="false" />
+            <element signature="e#335#336#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2042,12 +2043,12 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
           <folding>
-            <element signature="e#236#237#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
-            <element signature="e#387#388#0" expanded="true" />
-            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="false" />
+            <element signature="e#267#268#0" expanded="false" />
+            <element signature="e#308#309#0" expanded="false" />
+            <element signature="e#333#334#0" expanded="false" />
+            <element signature="e#387#388#0" expanded="false" />
+            <element signature="e#425#426#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2064,12 +2065,12 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
           <folding>
-            <element signature="e#199#200#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#296#297#0" expanded="true" />
-            <element signature="e#350#351#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="false" />
+            <element signature="e#230#231#0" expanded="false" />
+            <element signature="e#271#272#0" expanded="false" />
+            <element signature="e#296#297#0" expanded="false" />
+            <element signature="e#350#351#0" expanded="false" />
+            <element signature="e#388#389#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2095,10 +2096,10 @@
         <state vertical-scroll-proportion="0.32608697">
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding>
-            <element signature="e#173#174#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#255#256#0" expanded="true" />
-            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="false" />
+            <element signature="e#210#211#0" expanded="false" />
+            <element signature="e#255#256#0" expanded="false" />
+            <element signature="e#290#291#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2124,8 +2125,8 @@
         <state vertical-scroll-proportion="0.072463766">
           <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="5" selection-end-column="29" />
           <folding>
-            <element signature="e#310#311#0" expanded="true" />
-            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="false" />
+            <element signature="e#335#336#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2143,10 +2144,10 @@
         <state vertical-scroll-proportion="0.27173913">
           <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
           <folding>
-            <element signature="e#207#208#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#289#290#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="false" />
+            <element signature="e#244#245#0" expanded="false" />
+            <element signature="e#289#290#0" expanded="false" />
+            <element signature="e#324#325#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2257,9 +2258,66 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ikmr/banbara23/java_gof_designpattern/No05_singleton/MyClass2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19927536">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/sdk/platforms/android-22/android.jar!/java/util/Observer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1120797">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ikmr/banbara23/java_gof_designpattern/No19_Observer/MyObserverB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ikmr/banbara23/java_gof_designpattern/No19_Observer/MyObserverA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding>
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ikmr/banbara23/java_gof_designpattern/No19_Observer/MyMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ikmr/banbara23/java_gof_designpattern/No19_Observer/MyObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ikmr/banbara23/java_gof_designpattern/No19_Observer/MyClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10869565">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          <folding>
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

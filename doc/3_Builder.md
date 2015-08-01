@@ -20,3 +20,5 @@
 これを「Builderパターン」という。  
 そして、コンストラクタを分割したメソッドを持つクラスの事を「ビルだ(Builder)クラス」と呼び、
 ビルダクラスのメソッドを生成手順にそって呼び出す機能をもつビルダクラス運用専門のクラスを「ディレクタ(Director)クラス」と呼びます。  
+
+![構成図](https://raw.githubusercontent.com/banbara23/Java-GoF-DesignPattern/master/doc/image/3_Builder.jpg)

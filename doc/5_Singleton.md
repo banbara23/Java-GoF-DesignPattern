@@ -13,7 +13,7 @@ Singletonパターンは本当に１個しかオブジェクトが必要かど�
 
 ##メモ
 
-基本Singletonパターン
+####基本Singletonパターン
 ```java
 public class MyClass {
     static MyClass uniqueInstance;
@@ -37,7 +37,7 @@ public class MyClass {
 
 ---
 
-定石Singletonパターン
+####定石Singletonパターン
 ```java
 public class MyClass2 {
     static MyClass2 uniqueInstance;
@@ -69,3 +69,6 @@ synchronizedのカッコの中には「MyClass2.class」とあるが、これは
 実はこれはクラスファイル名ではなくて、JavaVMの上でMyClass2クラスの各種属性を保持している特殊なオブジェクト(java.lang.Classクラスのオブジェクト)を示す「class」という名前の一種の定数。  
 任意のクラスには「クラス名.class」と書くだけで参照できるClassオブジェクトがJavaVM上で自動的に生成されて定数として保持さている。  
 staticメソッドの中でsynchronized文を実行するときは、カッコの中にかける適当なオブジェクトがないので、この隠しオブジェクトをかわりに使うというのが定石となっている。
+
+##構成図
+![画像](https://raw.githubusercontent.com/banbara23/Java-GoF-DesignPattern/master/doc/image/5_Singleton.jpg)

@@ -6,15 +6,7 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4fb7d0d-85cc-4593-8bc0-994deec557ed" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/ikmr/banbara23/java_gof_designpattern/No19_Observer/MyClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/ikmr/banbara23/java_gof_designpattern/No19_Observer/MyMain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/ikmr/banbara23/java_gof_designpattern/No19_Observer/MyObserver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/ikmr/banbara23/java_gof_designpattern/No19_Observer/MyObserverA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/ikmr/banbara23/java_gof_designpattern/No19_Observer/MyObserverB.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="d4fb7d0d-85cc-4593-8bc0-994deec557ed" name="Default" comment="" />
     <ignored path="Java-Gof-DesignPattern.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
